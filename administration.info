@@ -9,8 +9,4 @@ dependencies[] = common
 
 ; Contributed Modules
 dependencies[] = admin_language
-dependencies[] =
-dependencies[] =
-dependencies[] =
-dependencies[] =
-dependencies[] =
+dependencies[] = navbar
