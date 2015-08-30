@@ -10,3 +10,18 @@ dependencies[] = common
 ; Contributed Modules
 dependencies[] = admin_language
 dependencies[] = navbar
+
+dependencies[] = menu_attributes
+dependencies[] = module_filter
+dependencies[] = actions_permission
+
+dependencies[] = 
+dependencies[] = 
+dependencies[] = 
+dependencies[] = 
+dependencies[] = 
+dependencies[] = 
+dependencies[] = 
+dependencies[] = 
+dependencies[] = 
+dependencies[] = 
