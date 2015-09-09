@@ -12,3 +12,6 @@ dependencies[] = admin_language
 dependencies[] = navbar
 dependencies[] = menu_attributes
 dependencies[] = module_filter
+dependencies[] = simplified_menu_admin
+dependencies[] = ember_support
+dependencies[] = responsive_preview
